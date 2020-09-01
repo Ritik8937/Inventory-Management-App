@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filterOptions">
+        <item></item>
+        <item>Variant</item>
+        <item>Boxes</item>
+        <item>Packing</item>
+    </string-array>
+</resources>

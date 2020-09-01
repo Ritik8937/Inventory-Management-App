@@ -1,0 +1,2 @@
+rootProject.name='Arvaria'
+include ':app'

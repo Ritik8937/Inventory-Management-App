@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Arvaria</string>
+    <string name="title_activity_home">home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Sign_up"><u><i>Dont have any account?<font color='red'>Sign up now</font></i></u></string>
+    <string name="menu_home">Home</string>
+    <string name="menu_documents">Documents</string>
+    <string name="menu_inventory">Inventory</string>
+    <string name="menu_expenses">Expenses</string>
+    <string name="menu_clients">Clients</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_addimages">addimages</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_custom_dialog">custom_dialog</string>
+    <string-array name="fortunerefinelist">
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+    </string-array>
+    <array name="departments">
+        <item>500 ml</item>
+        <item>1 ltr pouch</item>
+        <item>1 ltr bottle</item>
+        <item>2 ltr</item>
+        <item>3.5 ltr</item>
+        <item>5 ltr</item>f
+        <item>15 ltr</item>
+        <item>15 kg</item>
+    </array>
+    <array name="Variants">
+        <item>Refine</item>
+        <item>Ghee</item>
+        <item>Mustard and Development</item>
+        <item>Rice Brain</item>
+        <item>Sunflower</item>
+    </array>
+</resources>

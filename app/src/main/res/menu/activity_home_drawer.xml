@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_documents"
+            android:icon="@drawable/ic_insert_drive_file_black_24dp"
+            android:title="@string/menu_documents" />
+        <item
+            android:id="@+id/nav_inventory"
+            android:icon="@drawable/inventory"
+            android:title="@string/menu_inventory" />
+        <item
+            android:id="@+id/nav_expenses"
+            android:title="@string/menu_expenses"
+            android:icon="@drawable/expense"/>
+
+        <item
+            android:id="@+id/nav_clients"
+            android:title="@string/menu_clients"
+            android:icon="@drawable/clients"/>
+    </group>
+</menu>
